@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Snowflake credentials
+/config/snowflake.yaml
+
+# Python virtual environment
+.venv/
